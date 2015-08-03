@@ -1,0 +1,159 @@
+button
+{
+	width: 140px;
+}
+
+.mid
+{
+	position: absolute;
+	margin-top: 80px;
+	width: 100%;
+	float: center;
+}
+
+.textfield
+{
+	width: 500px;
+	height: 20px;
+}
+
+.nav_menu
+{
+	max-height: 20px;
+	max-width: 30px;
+	vertical-align: middle;
+}
+
+nav
+{
+	font-size: 15px;
+	float: right;
+}
+
+nav li
+{
+	display: inline;
+}
+
+nav a
+{
+	text-decoration: none;
+	color: black;
+}
+
+nav a:hover
+{
+	text-decoration: underline;
+	color: black;
+}
+
+header li
+{
+	padding: 10px;
+	
+}
+
+footer
+{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
+.language
+{
+	font-size: 15px;
+}
+
+.language a
+{
+	text-decoration: none;
+	color: blue;
+}
+
+.language a:hover
+{
+	text-decoration: underline;
+	color: blue;
+}
+
+.language li
+{
+	padding: 3px;
+	display: inline;
+}
+
+.foot_right li
+{
+	padding: 5px;
+	display: inline;
+}
+
+.foot_left li
+{
+	padding: 5px;
+	display: inline;
+}
+
+.foot_left ul
+{
+	padding-left: 15px;
+}
+
+.foot_right ul
+{
+	padding-right: 15px;
+}
+
+.foot_right a
+{
+	text-decoration: none;
+	color: grey;
+}
+
+.foot_left a
+{
+	text-decoration: none;
+	color: grey;
+}
+
+.foot_right
+{
+	font-size: 15px;
+	float: right;
+}
+
+.foot_left
+{
+	font-size: 15px;
+	float: left;
+}
+
+.foot_left a:hover
+{
+	text-decoration: underline;
+	color: black;
+}
+
+.foot_right a:hover
+{
+	text-decoration: underline;
+	color: black;
+}
+
+.foot_right
+{
+	float: right;
+}
+
+.foot_left
+{
+	float: left;
+}
+
+footer
+{
+	background-color: #f2f2f2;
+	width: 100%;
+	border-top: 1px solid #e4e4e4;
+}
